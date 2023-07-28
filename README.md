@@ -1,6 +1,6 @@
 # quizproject
 
-A new Flutter project.
+Astroquiz project created by Napat Parkdee and Korakoch Monka
 
 ## Getting Started
 
